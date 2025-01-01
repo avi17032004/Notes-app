@@ -34,7 +34,7 @@ To run the project locally:
 4. Start the development server:
     npm start
 
-The app will be available at http://localhost:3000
+The app will be available (https://notes-app-250101.netlify.app)
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
